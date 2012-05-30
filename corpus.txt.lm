@@ -1,0 +1,81 @@
+Language model created by QuickLM on Wed May 30 13:41:49 EDT 2012
+Copyright (c) 1996-2000
+Carnegie Mellon University and Alexander I. Rudnicky
+
+This model based on a corpus of 15 sentences and 17 words
+The (fixed) discount mass is 0.5
+
+\data\
+ngram 1=17
+ngram 2=30
+ngram 3=15
+
+\1-grams:
+-0.7782 </s> -0.3010
+-0.7782 <s> -0.2218
+-1.9542 CALC -0.2218
+-1.9542 CHROME -0.2218
+-1.9542 ECLIPSE -0.2218
+-1.9542 EMPATHY -0.2218
+-1.9542 FILES -0.2218
+-1.9542 FIREFOX -0.2218
+-1.9542 GIMP -0.2218
+-1.9542 IMPRESS -0.2218
+-1.9542 MAIL -0.2218
+-1.9542 NOTEPAD -0.2218
+-1.9542 TERMINAL -0.2218
+-1.9542 TRANSMISSION -0.2218
+-1.9542 VIDEOS -0.2218
+-1.9542 WRITER -0.2218
+-1.9542 ZIM -0.2218
+
+\2-grams:
+-1.4771 <s> CALC 0.0000
+-1.4771 <s> CHROME 0.0000
+-1.4771 <s> ECLIPSE 0.0000
+-1.4771 <s> EMPATHY 0.0000
+-1.4771 <s> FILES 0.0000
+-1.4771 <s> FIREFOX 0.0000
+-1.4771 <s> GIMP 0.0000
+-1.4771 <s> IMPRESS 0.0000
+-1.4771 <s> MAIL 0.0000
+-1.4771 <s> NOTEPAD 0.0000
+-1.4771 <s> TERMINAL 0.0000
+-1.4771 <s> TRANSMISSION 0.0000
+-1.4771 <s> VIDEOS 0.0000
+-1.4771 <s> WRITER 0.0000
+-1.4771 <s> ZIM 0.0000
+-0.3010 CALC </s> -0.3010
+-0.3010 CHROME </s> -0.3010
+-0.3010 ECLIPSE </s> -0.3010
+-0.3010 EMPATHY </s> -0.3010
+-0.3010 FILES </s> -0.3010
+-0.3010 FIREFOX </s> -0.3010
+-0.3010 GIMP </s> -0.3010
+-0.3010 IMPRESS </s> -0.3010
+-0.3010 MAIL </s> -0.3010
+-0.3010 NOTEPAD </s> -0.3010
+-0.3010 TERMINAL </s> -0.3010
+-0.3010 TRANSMISSION </s> -0.3010
+-0.3010 VIDEOS </s> -0.3010
+-0.3010 WRITER </s> -0.3010
+-0.3010 ZIM </s> -0.3010
+
+\3-grams:
+-0.3010 <s> CALC </s>
+-0.3010 <s> CHROME </s>
+-0.3010 <s> ECLIPSE </s>
+-0.3010 <s> EMPATHY </s>
+-0.3010 <s> FILES </s>
+-0.3010 <s> FIREFOX </s>
+-0.3010 <s> GIMP </s>
+-0.3010 <s> IMPRESS </s>
+-0.3010 <s> MAIL </s>
+-0.3010 <s> NOTEPAD </s>
+-0.3010 <s> TERMINAL </s>
+-0.3010 <s> TRANSMISSION </s>
+-0.3010 <s> VIDEOS </s>
+-0.3010 <s> WRITER </s>
+-0.3010 <s> ZIM </s>
+
+\end\

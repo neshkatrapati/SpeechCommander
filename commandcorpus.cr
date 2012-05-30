@@ -1,0 +1,15 @@
+FILES nautilus
+CALC localc
+FIREFOX firefox
+VIDEOS vlc
+CHROME google-chrome
+NOTEPAD gedit
+WRITER lowriter
+ECLIPSE eclipse
+IMPRESS loimpress
+TERMINAL gnome-terminal
+MAIL thunderbird
+ZIM zim
+GIMP gimp
+EMPATHY empathy
+TRANSMISSION transmission
